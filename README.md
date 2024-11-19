@@ -73,7 +73,6 @@ Follow these setps 👇👇
 6. Then come to render website. Give all of the imformations I set in the image below just change the name of your project and then must be change the branch name to `master` to `render-deploy-backend`
 
 7. This is the setup for render
-   ![Alt Text](assetREADME.md/renderDeployBackendSetup.png)
 
 8. After all the setup you finished create the web service and It will deploy the project.
 
