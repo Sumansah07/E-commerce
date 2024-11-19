@@ -79,4 +79,4 @@ Follow these setps 👇👇
 
 You can deploy frontend into vercel or netlify also. Thanks
 
-`Build with 💛 by Hasan`
+`Build with 💛 by Suman`
